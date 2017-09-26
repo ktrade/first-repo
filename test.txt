@@ -1,2 +1,2 @@
 "Updating with Bash..."
-"Updating with Tortoise
+"Updating with Tortoise"
